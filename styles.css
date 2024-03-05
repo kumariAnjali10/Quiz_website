@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    overflow: hidden;
+}
+
+
+.quiz-container {
+    
+    margin: 0 auto;
+    text-align: center;
+}
+.quiz-container mo
+
+h1 {
+    color: #ffffff;
+    
+}
+.quizz{
+    margin: 10vh;
+text-align: center;
+    color: #fff;
+    position: absolute;
+    justify-content: center;
+    opacity: 0.8;
+    user-select: none;
+
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+    color: #fff;
+}
+.question-container{
+    background-color: transparent;
+    justify-content: left;
+    margin: 5vh;
+    position: absolute;
+}
+#next-btn {
+    color: white; /* Sets button text color to white */
+    background-color: transparent; /* Sets button background color to transparent */
+    border: 1px solid white; /* Sets button border color to white */
+}
+
